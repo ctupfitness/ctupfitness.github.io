@@ -19,7 +19,10 @@ header {
     border-radius: 10px;
     text-align: center;
 }
-
+h1 {
+    font-size: 200px;   /* faltava o : aqui */
+    text-align: center;
+}
 button {
     background-color: red;
     color: white;
